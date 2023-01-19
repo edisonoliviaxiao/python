@@ -163,7 +163,7 @@ continue语句也是从C语言借来的，它继续进行循环的下一次迭�
     Found an even number 8
     Found an odd number 9
 
-##5.pass语句
+## 5.pass语句
 
 pass语句不做任何事情。当语法上需要一个语句，但程序不需要任何操作时，可以使用它。
     while True:
@@ -173,7 +173,7 @@ pass语句不做任何事情。当语法上需要一个语句，但程序不需�
     class MyEmptyClass:
        pass
 
-##6.match语句
+## 6.match语句
 
 match语句接收一个表达式，并将其值与作为一个或多个案例块给出的连续模式进行比较。这在表面上类似于C、Java或JavaScript（以及许多其他语言）中的switch语句，但它也可以从值中提取成分（序列元素或对象属性）进入变量。
 
